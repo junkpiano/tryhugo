@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://junkpiano.github.io/tryhugo"
 languageCode = "en-us"
 title = "Yusuke on the Cloud"
 theme = "ananke"
